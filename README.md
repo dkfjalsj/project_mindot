@@ -10,6 +10,13 @@
 | 내 역할 | **Backend · Security** (인증·DB·API) |
 | 배포 | https://mindot.app |
 | 원본 레포 | [JephyrWing/project_mindot](https://github.com/JephyrWing/project_mindot) |
+| 시연 영상 | https://youtu.be/8CSaI58M3b8 |
+
+## 🎬 시연 영상
+
+[![Mindot 시연 영상](https://img.youtube.com/vi/8CSaI58M3b8/hqdefault.jpg)](https://youtu.be/8CSaI58M3b8)
+
+▶ https://youtu.be/8CSaI58M3b8 · 챕터별 바로가기는 [3.3 시연 영상](#33-시연-영상)
 
 > 팀 프로젝트 원본을 포크한 레포입니다. 전체 구조를 함께 설명하되, **내 담당 항목은 ✅로 표시**했습니다.
 
@@ -19,7 +26,7 @@
 |---|---|---|
 | 01 | 프로젝트 개요 | 기획 배경·문제 정의 · 기존 방식과 차별점 · 서비스 컨셉 · 목표와 기대효과 |
 | 02 | 시스템 개요 | 요구사항 명세 · 기술 스택 · 인증 보안 · 아키텍처 · API 설계 · DB 구조 · AI 결과 검증 |
-| 03 | 서비스 구현 | 서비스 구조 · 핵심 기능 · 시연 흐름 |
+| 03 | 서비스 구현 | 서비스 구조 · 핵심 기능 · 시연 영상 |
 | 04 | 테스트 | 테스트 결과 · 비기능 요구사항 검증 |
 | 05 | 발전방향 및 회고 | 개발 성과 · 트러블슈팅 · 개선 방향 · 배운 점 |
 
@@ -354,16 +361,26 @@ flowchart LR
 | 월간 | 상황별·날짜별 감정 분포, 월초/월말 비교, 월 전체 분포 |
 | 인사이트 | 전체 기록 기반 시간대·상황·관계별 감정 분포 |
 
-## 3.3 시연 흐름
+## 3.3 시연 영상
 
-| 순서 | 단계 | 내용 |
-|---|---|---|
-| 01 | 회원가입·로그인 | 일반·카카오·구글, 동의 절차 |
-| 02 | 감정 기록 | 텍스트 또는 음성으로 한 줄 기록 |
-| 03 | AI 구조화 확인 | 상황·감정·생각 확인 후 확정 |
-| 04 | CBT 성찰 | 질문에 답하며 인지왜곡 확인 |
-| 05 | 패턴·리포트 | 반복 패턴 알림, 주간·월간 리포트, PDF |
-| 06 | 마음 돌봄·기관 찾기 | 명상 추천, 주변 기관 검색 |
+[![Mindot 시연 영상](https://img.youtube.com/vi/8CSaI58M3b8/hqdefault.jpg)](https://youtu.be/8CSaI58M3b8)
+
+시간을 누르면 해당 장면부터 재생됩니다.
+
+| 시간 | 장면 |
+|---|---|
+| [0:30](https://youtu.be/8CSaI58M3b8?t=30) | 회원가입 및 로그인 |
+| [0:50](https://youtu.be/8CSaI58M3b8?t=50) | 간편 감정 기록 |
+| [1:18](https://youtu.be/8CSaI58M3b8?t=78) | CBT 성찰 |
+| [4:00](https://youtu.be/8CSaI58M3b8?t=240) | 감정 인사이트 |
+| [4:21](https://youtu.be/8CSaI58M3b8?t=261) | 반복 패턴 |
+| [4:32](https://youtu.be/8CSaI58M3b8?t=272) | 감정 기록 목록 |
+| [5:00](https://youtu.be/8CSaI58M3b8?t=300) | 주간 리포트 |
+| [5:50](https://youtu.be/8CSaI58M3b8?t=350) | 월간 리포트 |
+| [6:18](https://youtu.be/8CSaI58M3b8?t=378) | 일일 마음 돌봄 서비스 |
+| [6:47](https://youtu.be/8CSaI58M3b8?t=407) | 관련 기관 찾기 |
+| [7:07](https://youtu.be/8CSaI58M3b8?t=427) | 위험 신호 감지 |
+| [7:31](https://youtu.be/8CSaI58M3b8?t=451) | 관리자 페이지 |
 
 ---
 
